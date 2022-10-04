@@ -1,0 +1,24 @@
+{
+  "name": "repocurso",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeremiasstuer/repoCurso.git"
+  },
+  "author": "Jeremias Stuer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeremiasstuer/repoCurso/issues"
+  },
+  "homepage": "https://github.com/jeremiasstuer/repoCurso#readme",
+  "dependencies": {
+    "@types/node": "^18.8.1",
+    "gitignore": "^0.7.0",
+    "readline-sync": "^1.4.10"
+  }
+}
