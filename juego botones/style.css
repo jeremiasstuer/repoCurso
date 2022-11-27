@@ -1,0 +1,25 @@
+
+header{
+    text-align: center;
+    border-bottom: 3px solid rgb(241, 241, 241);
+}
+
+section {
+    text-align: center;
+}
+
+.boton{
+     background-color: #457ebe;
+     width: 100px;
+     height: 30px;
+     border: 1px solid black;
+     border-radius: 20px;
+     color: white;
+}
+.boton:hover{
+    background-color: #87b9f1;
+}
+
+.primCaja{
+    margin-bottom: 10px;
+}
